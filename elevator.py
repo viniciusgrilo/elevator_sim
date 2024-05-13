@@ -1,6 +1,5 @@
 import threading
 import time
-from pyscript import document
 
 class Elevator():
 
